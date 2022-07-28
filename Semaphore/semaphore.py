@@ -1,6 +1,6 @@
 """
     Semaphore:
-        In this video, you will learn about semaphore in Python threading.
+        you will learn about semaphore in Python threading.
         semaphore has a function similar to lock,
          but it is used for times when you need to control the number of threads that connect to a shared resource.
         In the semaphore class, there is a counter that controls the number of connected threads.
