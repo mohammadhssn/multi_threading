@@ -1,6 +1,6 @@
 """
     RLock:
-        In this video, you will learn about the Rlock class in Python threading. In the previous meetings,
+       you will learn about the Rlock class in Python threading. In the previous meetings,
         you saw that by using lock,we could make the threads respect each other's work and wait for the shared resource
           until the work of one thread is finished. And you saw that if we acquire several times using one thread,
           our code gets blocked and the program crashes, and to solve this problem, we used lock as a context manager.
